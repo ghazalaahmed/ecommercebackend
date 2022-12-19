@@ -6,7 +6,7 @@ The task was to build the back end for an e-commerce site. You’ll take a worki
 
 ## INSTALLATION
 
-In order to install this, the user would need to first clone the repository and then install mysql2 and sequalize.
+In order to install this, the user would need to first clone the repository and then install mysql2 and sequelize.
 
 ## USAGE
 
